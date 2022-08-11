@@ -8,6 +8,10 @@ header {
   text-align: center;
 }
 
+div {
+  text-align: center;
+  padding: 8px;
+}
 section {
   background: white;
   border-radius: 10px;
